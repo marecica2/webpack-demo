@@ -1,0 +1,17 @@
+**/target
+**/target/
+**/*~
+**/.idea/
+**/.classpath
+**/.externalToolBuilders
+**/.settings
+**/.settings/**
+**/*.iml
+**/*.DS_Store
+**/.mvn
+**/.mvn/**
+**/mvnw
+**/mvnw.cmd
+**/build
+**/build/
+**/node_modules/
